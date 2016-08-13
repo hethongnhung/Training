@@ -1,3 +1,3 @@
 # Training
-#	http://hethongnhung.com
-#	http://laptrinhnhung.com
+	http://hethongnhung.com
+	http://laptrinhnhung.com
